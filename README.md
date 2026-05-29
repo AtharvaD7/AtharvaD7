@@ -1,5 +1,5 @@
-# Hi👋 , AD this side
-<br></br>
+# Hi👋, AD this side
+
 ## 💼 About Me:
 👨‍💻 Full-stack developer with strong interest in AI-powered applications  <br>⚡ Skilled in modern web technologies and backend development  <br>📈 Focused on building performant, user-centric products  <br>🌍 Open to internships, collaborations, and new opportunities
 
