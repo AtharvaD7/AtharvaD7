@@ -241,10 +241,6 @@ Order / Inventory / User Services
 | 🏅 Software Engineering Job Simulation | JPMorgan Chase & Co. via Forage |
 | 🤖 AI Fluency Framework & Foundations | Anthropic |
 
-</div>
-
-<div align="center">
-
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -289,51 +285,6 @@ Order / Inventory / User Services
 </picture>
 
 </div>
-
-<details>
-<summary><b>⚙️ How to enable the contribution snake</b></summary>
-
-<br/>
-
-**1. Create a public repo named exactly `AtharvaD7`** (same as your GitHub username — this is your profile repo)
-
-**2. Inside that repo, create this file:** `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually too
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AtharvaD7
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**3. Go to your repo → Settings → Actions → General**
-→ Under *Workflow permissions*, select **Read and write permissions** → Save
-
-**4. Run it manually once:** Actions tab → "Generate Snake Animation" → Run workflow
-
-After ~30 seconds the SVG files appear in the `output` branch and the snake renders in your README.
-
-</details>
 
 ---
 
