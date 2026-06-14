@@ -62,40 +62,27 @@ Currently learning distributed systems concepts — Kafka, Elasticsearch, Redis 
 
 <table><tr><td valign="top" width="50%">
 
-**Languages**
+**Languages & Frontend**
 <br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-<br/>
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=java,js,html,css,react&theme=dark&perline=5)](https://skillicons.dev)
 
 </td><td valign="top" width="50%">
 
 **Backend & Databases**
 <br/>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-7c3aed?style=flat-square&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=spring,hibernate,postgres,redis&theme=dark&perline=5)](https://skillicons.dev)
 
-<br/>
+</td></tr><tr><td valign="top" width="50%">
 
 **Cloud, DevOps & Tooling**
 <br/>
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark&perline=5)](https://skillicons.dev)
+
+</td><td valign="top" width="50%">
+
+**Currently Learning**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=kafka,elasticsearch&theme=dark&perline=5)](https://skillicons.dev)
 
 </td></tr></table>
 
@@ -281,16 +268,6 @@ Order / Inventory / User Services
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AtharvaD7&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -311,9 +288,52 @@ Order / Inventory / User Services
   <img alt="contribution-snake" src="https://raw.githubusercontent.com/AtharvaD7/AtharvaD7/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> To enable: add `.github/workflows/snake.yml` using `Platane/snk@v3`
-
 </div>
+
+<details>
+<summary><b>⚙️ How to enable the contribution snake</b></summary>
+
+<br/>
+
+**1. Create a public repo named exactly `AtharvaD7`** (same as your GitHub username — this is your profile repo)
+
+**2. Inside that repo, create this file:** `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AtharvaD7
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**3. Go to your repo → Settings → Actions → General**
+→ Under *Workflow permissions*, select **Read and write permissions** → Save
+
+**4. Run it manually once:** Actions tab → "Generate Snake Animation" → Run workflow
+
+After ~30 seconds the SVG files appear in the `output` branch and the snake renders in your README.
+
+</details>
 
 ---
 
