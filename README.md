@@ -1,30 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Atharva%20Deshmukh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Atharva%20Deshmukh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Java%20Developer&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Backend+Engineer+%7C+Spring+Boot+%7C+PostgreSQL+%7C+AWS;Building+Production-Grade+Distributed+Systems;Cloud-Native+%7C+Microservices+%7C+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=50&lines=Spring+Boot+·+React+·+PostgreSQL+·+AWS;Building+real+apps+with+Gemini+AI+integration;Java+Backend+·+REST+APIs+·+Cloud+Deployment)](https://git.io/typing-svg)
 
 <br/>
 
-![B.E. CSE](https://img.shields.io/badge/B.E.%20CSE-CGPA%207.14-7c3aed?style=flat-square&logo=graduation-cap&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2021--2025-6d28d9?style=flat-square)
-![Location](https://img.shields.io/badge/📍%20Bhiwandi,%20Maharashtra-India-5b21b6?style=flat-square)
-![Open To Relocate](https://img.shields.io/badge/Open%20To-Relocate-4c1d95?style=flat-square)
+![B.E. CSE](https://img.shields.io/badge/B.E.%20CSE-CGPA%207.14-7c3aed?style=flat-square&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2021–2025-6d28d9?style=flat-square)
+![Location](https://img.shields.io/badge/📍%20Maharashtra-India-5b21b6?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Full--time%20Roles-4c1d95?style=flat-square)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-YOUR__PORTFOLIO__URL-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/◈%20Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/in-LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/✉%20Email-Contact%20Me-5b21b6?style=for-the-badge&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/AtharvaD7"><img src="https://img.shields.io/badge/◎%20GitHub-AtharvaD7-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=AtharvaD7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165em"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AtharvaD7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165em"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=flat-square&color=7c3aed&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB?style=flat-square&color=6d28d9&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB?style=flat-square&color=5b21b6&label=Stars)
+<img src="https://streak-stats.demolab.com/?user=AtharvaD7&theme=dark&hide_border=false"/>
 
 </div>
 
@@ -35,18 +44,15 @@
 ```yaml
 name        : Atharva Deshmukh
 role        : Full Stack Java Developer
-location    : Bhiwandi, Maharashtra, India
-education   : B.E. Computer Science & Engineering — Prof. Ram Meghe Institute (2021–2025)
-focus       : Production-grade backend systems · Cloud-native Java · AI-integrated applications
+location    : Maharashtra, India
+education   : B.E. CSE — Prof. Ram Meghe Institute of Technology & Research (2021–2025)
+focus       : Java backend · REST APIs · Gemini AI integration · AWS deployment
+open_to     : Full-time Backend / Full Stack roles · Remote or Relocation
 ```
 
-Backend-focused Java developer with hands-on experience building production-ready applications using **Spring Boot**, **React**, and **PostgreSQL**. I architect systems end-to-end — from domain modelling and REST API design through containerisation, deployment, and observability on AWS.
+Java developer comfortable across the full stack — building REST APIs with Spring Boot, wiring React frontends, and deploying to AWS. I've shipped apps that integrate Gemini AI for real features (not demos): neighbourhood scoring, personalised study generation, and natural language querying.
 
-My recent work spans real-estate platforms with Gemini AI integration, AI tutoring tools with full async state management, and a live distributed log analytics platform currently in active development — wiring Kafka, Elasticsearch, Redis, and Spring AI into a single observable pipeline.
-
-I believe in building with real constraints: measured performance, proper auth, and deployable code — not demos that only run locally.
-
-**Open To:** Full-time Backend / Full Stack roles · Remote or Relocation · Java / Spring Boot ecosystem
+Currently learning distributed systems concepts — Kafka, Elasticsearch, Redis — by building a log analytics platform from scratch. I learn by doing, with real deployed code at each step.
 
 ---
 
@@ -54,91 +60,113 @@ I believe in building with real constraints: measured performance, proper auth, 
 
 <div align="center">
 
-### Languages & Databases
-[![Skills](https://skillicons.dev/icons?i=java,js,html,css,sql&theme=dark)](https://skillicons.dev)
+<table><tr><td valign="top" width="50%">
 
-### Frontend
-[![Skills](https://skillicons.dev/icons?i=react,tailwind&theme=dark)](https://skillicons.dev)
+**Languages**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & Databases
-[![Skills](https://skillicons.dev/icons?i=spring,hibernate,postgres,redis&theme=dark)](https://skillicons.dev)
+<br/>
 
-### Cloud, DevOps & Tooling
-[![Skills](https://skillicons.dev/icons?i=aws,docker,github,git,postman&theme=dark)](https://skillicons.dev)
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td><td valign="top" width="50%">
+
+**Backend & Databases**
+<br/>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-7c3aed?style=flat-square&logoColor=white)
+
+<br/>
+
+**Cloud, DevOps & Tooling**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td></tr></table>
 
 </div>
 
 ---
 
-## 🤖 AI / ML Integration Expertise
+## ✨ Gemini AI Integration
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Gemini API (Flash 2.5 / 2.0)** | ★★★★☆ | Prompt engineering, JSON schema validation, zero-shot extraction |
-| **Spring AI** | ★★★☆☆ | NL → Elasticsearch query translation, structured output parsing |
-| **RAG / Cache-Aside LLM** | ★★★☆☆ | PostgreSQL-backed cache reducing LLM API costs by 95% |
-| **Nominatim Geocoding** | ★★★★☆ | Real-time spatial property mapping in FindHome |
-| **Vector / Semantic Search** | ★★☆☆☆ | Actively learning — applied in log analytics NL query layer |
+Both production projects use Gemini — here's what that actually looks like in practice:
+
+| Project | Model | What it does |
+|---------|-------|-------------|
+| **FindHome** | Gemini 2.5 Flash | Scores neighbourhoods against user preferences — prompt-engineered, JSON schema validated |
+| **FindHome** | Cache-Aside (PostgreSQL) | Caches Gemini responses — reduced repeat-query latency from 3.5s → <150ms |
+| **SkillMate** | Gemini 2.0 Flash | Generates personalised study material per topic — strict output schema, zero parse failures |
+| **Log Platform** *(learning)* | Spring AI + Gemini | Natural language → Elasticsearch query translation — in progress |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🏠 FindHome — AI-Powered Real Estate Platform</b> &nbsp;|&nbsp; <code>2026</code> &nbsp;|&nbsp; Live</summary>
+<summary><b>🏠 FindHome — Real Estate Platform with Gemini AI</b> &nbsp;·&nbsp; <code>2026</code> &nbsp;·&nbsp; Live</summary>
 
 <br/>
 
-> Full-stack real estate discovery platform combining spatial intelligence, LLM-powered neighbourhood scoring, and production-grade security — deployed on AWS EC2.
+> Full-stack property discovery app — Gemini scores neighbourhoods, Nominatim handles geocoding, JWT secures every route, deployed on AWS EC2.
 
-| Dimension | Detail |
-|-----------|--------|
-| **Stack** | Spring Boot · PostgreSQL · Hibernate/JPA · React.js · Gemini AI · Docker · AWS EC2 |
-| **AI Layer** | Google Gemini 2.5 Flash + Nominatim Geocoding for dynamic neighbourhood scoring |
-| **Performance** | PostgreSQL Cache-Aside reduced LLM generation latency by **95%** (3.5s → <150ms) |
-| **Security** | JWT-based RBAC + dual-layer rate limiting · 0% API quota overflow in production |
-| **Scale** | Distributed multi-cloud architecture · Production backend on AWS EC2 |
-| **Repository** | [🔗 Live Demo](https://YOUR_FINDHOME_URL) |
+| | |
+|--|--|
+| **Stack** | Spring Boot · PostgreSQL · Hibernate/JPA · React.js · Gemini 2.5 Flash · Docker · AWS EC2 |
+| **AI** | Gemini 2.5 Flash for neighbourhood scoring + Nominatim for real-time spatial mapping |
+| **Performance** | PostgreSQL cache-aside cut LLM latency by 95% (3.5s → <150ms) |
+| **Security** | JWT RBAC + dual-layer rate limiting — 0% API quota overflow |
+| **Live** | [🔗 Open App](https://YOUR_FINDHOME_URL) |
 
-Built on the insight that real estate search is fundamentally a spatial + contextual problem — not just a filter query. Integrated Gemini to score neighbourhoods against user-stated preferences, cached results in PostgreSQL to eliminate redundant LLM calls, and deployed the entire stack across a distributed EC2 architecture with proper auth at every layer.
+Neighbourhood scoring is the core feature — Gemini evaluates each listing against what the user actually said they want, not generic filters. Results are cached in PostgreSQL so repeat queries don't hit the API again.
 
 </details>
 
 ---
 
 <details>
-<summary><b>🧠 SkillMate — AI Tutoring Platform</b> &nbsp;|&nbsp; <code>2024</code> &nbsp;|&nbsp; GitHub</summary>
+<summary><b>🧠 SkillMate — AI Study Material Generator</b> &nbsp;·&nbsp; <code>2024</code> &nbsp;·&nbsp; GitHub</summary>
 
 <br/>
 
-> Full-stack AI tutoring platform that auto-generates personalised study material for any user-submitted topic using Gemini 2.0 Flash — with zero UI thread blocking.
+> React + PostgreSQL app that uses Gemini 2.0 Flash to auto-generate structured study content for any topic — with async state management so the UI never freezes.
 
-| Dimension | Detail |
-|-----------|--------|
-| **Stack** | React.js · PostgreSQL · Gemini API |
-| **AI Layer** | Gemini 2.0 Flash with strict prompt engineering + JSON schema validation |
-| **Reliability** | Zero deserialization failures in production across all Gemini responses |
-| **Performance** | Eliminated 10–15s UI blocking via optimistic rendering + predictive loading |
-| **Repository** | [🔗 GitHub + Demo](https://YOUR_SKILLMATE_REPO) |
-
-The core engineering challenge was async AI generation in React without degrading perceived performance. Redesigned state management with optimistic rendering so users see progressive content rather than a spinner — reducing perceived wait from 10–15s to near-instant.
+| | |
+|--|--|
+| **Stack** | React.js · PostgreSQL · Gemini 2.0 Flash API |
+| **AI** | Strict prompt engineering + JSON schema validation — zero deserialization failures |
+| **UX** | Eliminated 10–15s blocking via optimistic rendering + predictive loading indicators |
+| **Repo** | [🔗 GitHub + Demo](https://YOUR_SKILLMATE_REPO) |
 
 </details>
 
 ---
 
 <details>
-<summary><b>🌐 Portfolio Site</b> &nbsp;|&nbsp; <code>2025</code> &nbsp;|&nbsp; Live</summary>
+<summary><b>🌐 Portfolio Site</b> &nbsp;·&nbsp; <code>2025</code> &nbsp;·&nbsp; Live on Netlify</summary>
 
 <br/>
 
-> Personal portfolio site built and deployed on Netlify — a live showcase of projects and technical capabilities.
-
-| Dimension | Detail |
-|-----------|--------|
-| **Stack** | HTML · CSS · JavaScript · Netlify |
-| **Deployment** | Continuous deployment via Netlify |
-| **Live** | [🔗 Portfolio](https://YOUR_PORTFOLIO_URL) |
+| | |
+|--|--|
+| **Stack** | HTML · CSS · JavaScript |
+| **Hosting** | Netlify (continuous deployment) |
+| **Live** | [🔗 Visit](https://YOUR_PORTFOLIO_URL) |
 
 </details>
 
@@ -148,114 +176,94 @@ The core engineering challenge was async AI generation in React without degradin
 
 <div align="center">
 
-### 📡 Distributed Log Analytics Platform
-*A production-grade microservices observability system — actively under development*
+**📡 Distributed Log Analytics Platform**
+*Learning distributed systems by building one — deployed at each phase*
 
 </div>
 
 ```yaml
-project     : Distributed Log Analytics Platform
-status      : 🟡 Phase 2 — Kafka Pipeline (Active)
-repo        : YOUR_LOG_PLATFORM_REPO
-stack       : Java 21 · Spring Boot 3.2.5 · Kafka · Elasticsearch · Redis · Spring AI · Gemini · Docker · AWS EC2
+project  : Distributed Log Analytics Platform
+status   : Phase 2 — Kafka pipeline (active)
+stack    : Java 21 · Spring Boot 3.2.5 · Kafka · Elasticsearch · Redis · Spring AI · Docker · AWS EC2
+repo     : YOUR_LOG_PLATFORM_REPO
 ```
 
-**What it does:** Three Spring Boot microservices (Order, Inventory, User) emit structured JSON logs streamed through Kafka into a Log Ingestion Service — indexed in Elasticsearch, error-rate tracked in Redis with sliding windows, WebSocket alerts on spikes, and natural language log queries via Spring AI + Gemini.
+Three Spring Boot services (Order, Inventory, User) emit structured JSON logs → streamed through Kafka → ingested and indexed in Elasticsearch → error rates tracked in Redis → WebSocket alerts on spikes → natural language queries via Spring AI + Gemini.
 
 ```
 Order / Inventory / User Services
-        ↓ (structured JSON logs)
-      Kafka  [topic: logs.stream]
+        ↓  JSON logs
+      Kafka  [logs.stream]
         ↓
   Log Ingestion Service
-    ├── Elasticsearch  → full-text search + traceId lookup
-    ├── Redis          → sliding window error counter + threshold alerts   ← learning
-    ├── WebSocket      → real-time alert broadcast                         ← learning
-    └── Spring AI      → natural language → Elasticsearch query            ← learning
+    ├── Elasticsearch  → search + traceId lookup
+    ├── Redis          → error rate counter + alerts      ← learning
+    ├── WebSocket      → real-time broadcast              ← learning
+    └── Spring AI      → NL → Elasticsearch query        ← learning
         ↓
-  HTML Dashboard + API Gateway (JWT auth)                                  ← learning
+  Dashboard + API Gateway (JWT)                           ← learning
 ```
 
-**Build Progress:**
+**Phase Progress**
 
-| Phase | Component | Status |
-|-------|-----------|--------|
-| Phase 1 | Core microservices (Order, Inventory, User) + REST APIs + PostgreSQL/H2 | ✅ Complete |
-| Phase 2 | Kafka log streaming pipeline · `logs.stream` topic · KafkaLogAppender | 🟡 In Progress |
-| Phase 3 | Elasticsearch ingestion · LogDocument indexing · search API | 📖 Learning |
-| Phase 4 | Redis sliding-window error counters · threshold alerts | 📖 Learning |
-| Phase 5 | WebSocket + STOMP real-time alert broadcast | 📖 Learning |
-| Phase 6 | Spring AI + Gemini NL query layer | 📖 Learning |
-| Phase 7 | API Gateway · JWT auth · routing | 📖 Learning |
-| Phase 8 | Prometheus + Grafana observability | 📖 Learning |
-| Phase 9 | GitHub Actions CI/CD · AWS EC2 deployment | 📖 Learning |
-
-> **🛠️ Engineering in public** — learning Kafka, Elasticsearch, Redis, and Spring AI by building with them. Each phase produces working, deployed code — no pseudocode, no placeholders.
+| Phase | What | Status |
+|-------|------|--------|
+| 1 | Core microservices · REST APIs · PostgreSQL/H2 | ✅ Done |
+| 2 | Kafka pipeline · `logs.stream` · KafkaLogAppender | 🟡 Active |
+| 3 | Elasticsearch ingestion · index + search API | 📖 Up next |
+| 4 | Redis sliding-window error counters | 📖 Learning |
+| 5 | WebSocket + STOMP real-time alerts | 📖 Learning |
+| 6 | Spring AI + Gemini NL query layer | 📖 Learning |
+| 7 | API Gateway · JWT auth · routing | 📖 Learning |
+| 8 | Prometheus + Grafana observability | 📖 Learning |
+| 9 | GitHub Actions CI/CD · AWS EC2 deploy | 📖 Learning |
 
 ---
 
 ## 💼 Experience
 
-### Virtual Internship — Cisco Networking | AICTE · EduSkills
+### Cisco Networking Virtual Internship &nbsp;·&nbsp; AICTE · EduSkills
 `May 2024 – July 2024`
 
-Completed a structured virtual internship focused on enterprise network design and infrastructure analysis using Cisco Packet Tracer.
-
-- Mapped college campus network topology — documenting router, switch, and firewall placement across distributed infrastructure layers
-- Analyzed simulated traffic data to diagnose and eliminate routing loops, maintaining optimal throughput across high-density access layers
+- Mapped college campus network topology using Cisco Packet Tracer — routers, switches, and firewall placement across distributed infrastructure layers
+- Diagnosed and eliminated routing loops by analysing simulated traffic data
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Infrastructure%20Design-7c3aed?style=flat-square)
+![Networking](https://img.shields.io/badge/Network%20Design-Infrastructure-7c3aed?style=flat-square)
 
 ---
 
-### Virtual Internship — Cloud Foundations | AWS Academy · AICTE · EduSkills
+### AWS Academy Cloud Foundations &nbsp;·&nbsp; AICTE · EduSkills
 `2024`
 
-Completed AWS Academy Cloud Foundations programme — covering core AWS services, cloud architecture principles, and the shared responsibility model.
+- Covered core AWS services, cloud architecture principles, and the shared responsibility model
+- Applied EC2, RDS, and S3 knowledge directly to personal project deployments
 
-- Gained hands-on exposure to EC2, RDS, and S3 through structured lab exercises
-- Applied cloud-native concepts directly to personal project deployments on AWS EC2
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-RDS-S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-| Recognition | Issuer | Details |
-|-------------|--------|---------|
-| 🏅 Software Engineering Job Simulation | JPMorgan Chase & Co. via Forage | Completed real-world SE tasks in a simulated JPMC engineering environment |
-| 🤖 AI Fluency Framework & Foundations | Anthropic | Foundational AI literacy and responsible AI usage certification |
-| ☁️ AWS Academy Graduate | Amazon Web Services | Cloud Foundations — core AWS architecture and services |
-| 🌐 Cisco Virtual Internship | Cisco · AICTE · EduSkills | Enterprise networking, topology design, and traffic analysis |
+| Recognition | Issuer |
+|-------------|--------|
+| ☁️ AWS Academy Graduate — Cloud Foundations | Amazon Web Services |
+| 🌐 Cisco Networking Virtual Internship | Cisco · AICTE · EduSkills |
+| 🏅 Software Engineering Job Simulation | JPMorgan Chase & Co. via Forage |
+| 🤖 AI Fluency Framework & Foundations | Anthropic |
 
 </div>
 
----
-
-## 📜 Certifications
-
 <div align="center">
 
-**AWS**
+<br/>
 
-![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Cisco**
-
-![Cisco Virtual Internship](https://img.shields.io/badge/Cisco-Virtual%20Internship%20%7C%20AICTE-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Anthropic**
-
-![AI Fluency](https://img.shields.io/badge/Anthropic-AI%20Fluency%20Framework%20%26%20Foundations-7c3aed?style=for-the-badge&logoColor=white)
-
-**Forage**
-
-![JPMorgan](https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering%20Simulation-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Virtual%20Internship-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JPMorgan%20Chase-SE%20Simulation-003087?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-AI%20Fluency-7c3aed?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -273,26 +281,11 @@ Completed AWS Academy Cloud Foundations programme — covering core AWS services
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c4b5fd&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=6d28d9&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6"/>
-
-</div>
-
----
-
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AtharvaD7&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -302,7 +295,7 @@ Completed AWS Academy Cloud Foundations programme — covering core AWS services
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaD7&theme=react-dark&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -313,14 +306,14 @@ Completed AWS Academy Cloud Foundations programme — covering core AWS services
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaD7/AtharvaD7/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaD7/AtharvaD7/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/AtharvaD7/AtharvaD7/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-</div>
+> To enable: add `.github/workflows/snake.yml` using `Platane/snk@v3`
 
-> **To enable the snake animation:** Add a GitHub Actions workflow in `.github/workflows/snake.yml` using `Platane/snk@v3` — it auto-generates the SVG on a schedule.
+</div>
 
 ---
 
@@ -328,26 +321,24 @@ Completed AWS Academy Cloud Foundations programme — covering core AWS services
 
 ```yaml
 learning:
-  - Apache Kafka — producer/consumer patterns, topic partitioning, consumer groups
-  - Elasticsearch 8.x — Spring Data ES, index templates, query DSL
-  - Redis — sliding window counters, pub/sub, TTL-based eviction
-  - Spring AI — structured output, prompt templates, Gemini integration
-  - WebSocket + STOMP — real-time broadcast over Spring Boot
+  - Apache Kafka  — producer/consumer patterns, partitioning, consumer groups
+  - Elasticsearch — Spring Data ES 5.x, index templates, query DSL
+  - Redis         — sliding window counters, TTL-based eviction
+  - Spring AI     — structured output, prompt templates, Gemini NL queries
+  - WebSocket     — STOMP protocol, real-time broadcast with Spring Boot
 
 building:
-  - Distributed Log Analytics Platform (Phase 2 — Kafka pipeline active)
-  - Wiring KafkaLogAppender across Order, Inventory, User microservices
-  - logs.stream topic → Log Ingestion Service consumer
+  - Log Analytics Platform Phase 2 — Kafka log pipeline across 3 services
+  - KafkaLogAppender wired to logs.stream topic
 
 exploring:
-  - Prometheus + Grafana for microservice observability
-  - GitHub Actions CI/CD pipeline for multi-module Maven projects
-  - AWS EC2 multi-container deployment via Docker Compose
+  - Prometheus + Grafana for service observability
+  - GitHub Actions CI/CD for multi-module Maven builds
+  - Docker Compose prod deployments on AWS EC2
 
 open_to:
   - Full-time Backend / Full Stack Java roles
   - Remote or relocation anywhere in India
-  - Companies building distributed systems, developer tooling, or AI-integrated products
 ```
 
 ---
@@ -356,10 +347,10 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-YOUR__EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/✉%20Gmail-Reach%20Out-EA4335?style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AtharvaD7"><img src="https://img.shields.io/badge/◎%20GitHub-AtharvaD7-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/◈%20Portfolio-Live%20Site-7c3aed?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
@@ -367,8 +358,8 @@ open_to:
 
 <div align="center">
 
-*"I don't just write code — I build systems that observe themselves, recover from failure, and tell you exactly what went wrong."*
+*"I learn by shipping — every concept I'm studying has a deployed commit behind it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
