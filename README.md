@@ -15,9 +15,9 @@
 
 <br/>
 
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/◈%20Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/in-LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/✉%20Email-Contact%20Me-5b21b6?style=for-the-badge&logoColor=white" alt="Email"/></a>
+<a href="https://atharva-deshmukh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/◈%20Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/atharva-deshmukh-93737a252/"><img src="https://img.shields.io/badge/in-LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:atharvad1775@gmail.com"><img src="https://img.shields.io/badge/✉%20Email-Contact%20Me-5b21b6?style=for-the-badge&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/AtharvaD7"><img src="https://img.shields.io/badge/◎%20GitHub-AtharvaD7-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
@@ -118,7 +118,7 @@ Both production projects use Gemini — here's what that actually looks like in 
 | **AI** | Gemini 2.5 Flash for neighbourhood scoring + Nominatim for real-time spatial mapping |
 | **Performance** | PostgreSQL cache-aside cut LLM latency by 95% (3.5s → <150ms) |
 | **Security** | JWT RBAC + dual-layer rate limiting — 0% API quota overflow |
-| **Live** | [🔗 Open App](https://YOUR_FINDHOME_URL) |
+| **Live** | [🔗 Open App](https://find-home-realty.vercel.app/) |
 
 Neighbourhood scoring is the core feature — Gemini evaluates each listing against what the user actually said they want, not generic filters. Results are cached in PostgreSQL so repeat queries don't hit the API again.
 
@@ -138,7 +138,7 @@ Neighbourhood scoring is the core feature — Gemini evaluates each listing agai
 | **Stack** | React.js · PostgreSQL · Gemini 2.0 Flash API |
 | **AI** | Strict prompt engineering + JSON schema validation — zero deserialization failures |
 | **UX** | Eliminated 10–15s blocking via optimistic rendering + predictive loading indicators |
-| **Repo** | [🔗 GitHub + Demo](https://YOUR_SKILLMATE_REPO) |
+| **Repo** | [🔗 GitHub + Demo](https://github.com/AtharvaD7/Skillmate-ai-powered-learning) |
 
 </details>
 
@@ -153,7 +153,7 @@ Neighbourhood scoring is the core feature — Gemini evaluates each listing agai
 |--|--|
 | **Stack** | HTML · CSS · JavaScript |
 | **Hosting** | Netlify (continuous deployment) |
-| **Live** | [🔗 Visit](https://YOUR_PORTFOLIO_URL) |
+| **Live** | [🔗 Visit](https://atharva-deshmukh-portfolio.netlify.app/) |
 
 </details>
 
