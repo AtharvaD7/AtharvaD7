@@ -215,8 +215,7 @@ Order / Inventory / User Services
 - Mapped college campus network topology using Cisco Packet Tracer — routers, switches, and firewall placement across distributed infrastructure layers
 - Diagnosed and eliminated routing loops by analysing simulated traffic data
 
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Network%20Design-Infrastructure-7c3aed?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1ba0d7?style=flat-square&logo=cisco&logoColor=white)s
 
 ---
 
