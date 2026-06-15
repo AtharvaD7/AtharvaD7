@@ -168,12 +168,6 @@ Neighbourhood scoring is the core feature — Gemini evaluates each listing agai
 
 </div>
 
-```yaml
-project  : Distributed Log Analytics Platform
-status   : Phase 2 — Kafka pipeline (active)
-stack    : Java 21 · Spring Boot 3.2.5 · Kafka · Elasticsearch · Redis · Spring AI · Docker · AWS EC2
-repo     : YOUR_LOG_PLATFORM_REPO
-```
 
 Three Spring Boot services (Order, Inventory, User) emit structured JSON logs → streamed through Kafka → ingested and indexed in Elasticsearch → error rates tracked in Redis → WebSocket alerts on spikes → natural language queries via Spring AI + Gemini.
 
@@ -317,10 +311,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/✉%20Gmail-Reach%20Out-EA4335?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:atharvad1775@gmail.com"><img src="https://img.shields.io/badge/✉%20Gmail-Reach%20Out-EA4335?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/atharva-deshmukh-93737a252/"><img src="https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AtharvaD7"><img src="https://img.shields.io/badge/◎%20GitHub-AtharvaD7-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/◈%20Portfolio-Live%20Site-7c3aed?style=for-the-badge&logoColor=white"/></a>
+<a href="https://atharva-deshmukh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/◈%20Portfolio-Live%20Site-7c3aed?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
