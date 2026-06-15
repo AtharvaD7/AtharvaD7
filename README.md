@@ -256,7 +256,7 @@ Order / Inventory / User Services
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR__USERNAME-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-atharvara0q-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
 [![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__USERNAME-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/YOUR_USERNAME)
 
 </div>
